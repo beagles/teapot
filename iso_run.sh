@@ -1,6 +1,7 @@
 #/bin/bash
 
 touch failing.tests.txt
+touch passing.tests.txt
 testgroup=$1
 breakonexit=$2
 
@@ -14,15 +15,21 @@ then
     bash -x teapotcleanups.sh >> $testgroup.results.txt
     cat "$testgroup.tests.txt" | while read testname rest;
     do
+	ts=`date`
 	testr run $testname | tee -a $testgroup.results.txt | tee $testname.result.txt
 	grep -q FAIL $testname.result.txt
 	if test $? -eq 0;
 	then
-	    grep -q "$testname" failing.tests.txt
-	    [ $? -eq 1 ] && echo "$testname" >> failing.tests.txt
+	    sed -i.bak -e "/$testname/d" failing.tests.txt
+	    sed -i.bak -e "/$testname/d" passing.tests.txt
+	    echo "$testname $ts" >> failing.tests.txt
 	    bash -x teapotcleanups.sh | tee -a $testname.result.txt
 	    [ -n "$breakonexit" ] && [ "$breakonexit" == "yes" ] && exit
 	else
+	    # don't delete the failing entry.. I want to keep track
+	    # of if it ever has failed.
+	    sed -i.bak -e "/$testname/d" passing.tests.txt
+	    echo "$testname $ts" >> passing.tests.txt
 	    bash -x teapotcleanups.sh | tee -a $testname.result.txt
 	fi
     done

@@ -1,0 +1,2233 @@
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpus0NSP
+Ran 1 (+1) tests in 13.488s
+PASSED (id=1681, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpqf2XL2
+Ran 1 tests in 11.218s (+11.127s)
+PASSED (id=1682, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp2dO58C
+Ran 1 tests in 12.203s (+12.113s)
+PASSED (id=1683, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSgTf1Q
+Ran 1 (+1) tests in 12.682s
+PASSED (id=1685, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpPcl3AR
+Ran 1 tests in 12.315s (+12.233s)
+PASSED (id=1686, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpaOiuj1
+Ran 1 tests in 13.386s (+13.307s)
+PASSED (id=1687, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpsAf4a2
+Ran 1 tests in 12.562s (+12.482s)
+PASSED (id=1688, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSQdrtN
+Ran 1 tests in 0.496s (+0.420s)
+PASSED (id=1689)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpI0mYxh
+Ran 1 tests in 0.565s (+0.377s)
+PASSED (id=1690)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1eHGPx
+Ran 1 tests in 0.489s (+0.260s)
+PASSED (id=1691)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpErFaoB
+Ran 1 tests in 0.554s (+0.351s)
+PASSED (id=1692)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpk1ZkqD
+======================================================================
+FAIL: setUpClass (tempest.api.network.test_load_balancer.LoadBalancerJSON)
+tags: worker-0
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "tempest/api/network/test_load_balancer.py", line 51, in setUpClass
+    "HTTP", cls.subnet)
+  File "tempest/api/network/base.py", line 169, in create_pool
+    subnet['id'])
+  File "tempest/services/network/json/network_client.py", line 451, in create_pool
+    resp, body = self.post(uri, headers=self.headers, body=body)
+  File "tempest/common/rest_client.py", line 302, in post
+    return self.request('POST', url, headers, body)
+  File "tempest/common/rest_client.py", line 436, in request
+    resp, resp_body)
+  File "tempest/common/rest_client.py", line 481, in _error_checker
+    raise exceptions.NotFound(resp_body)
+NotFound: Object not found
+Details: 404 Not Found
+
+The resource could not be found.
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.445s (+0.204s)
+FAILED (id=1693, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpKK_wva
+======================================================================
+FAIL: setUpClass (tempest.api.network.test_load_balancer.LoadBalancerXML)
+tags: worker-0
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "tempest/api/network/test_load_balancer.py", line 51, in setUpClass
+    "HTTP", cls.subnet)
+  File "tempest/api/network/base.py", line 169, in create_pool
+    subnet['id'])
+  File "tempest/services/network/xml/network_client.py", line 312, in create_pool
+    resp, body = self.post(uri, str(Document(post_body)), self.headers)
+  File "tempest/common/rest_client.py", line 302, in post
+    return self.request('POST', url, headers, body)
+  File "tempest/common/rest_client.py", line 436, in request
+    resp, resp_body)
+  File "tempest/common/rest_client.py", line 481, in _error_checker
+    raise exceptions.NotFound(resp_body)
+NotFound: Object not found
+Details: 404 Not Found
+
+The resource could not be found.
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 tests in 0.398s (+0.355s)
+FAILED (id=1694, failures=2)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpvmu9ra
+Ran 1 (-1) tests in 0.003s (-0.037s)
+PASSED (id=1695, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpj_2bLm
+Ran 1 tests in 0.002s
+PASSED (id=1696, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpO5yon5
+Ran 1 tests in 0.002s
+PASSED (id=1697, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpd8bndm
+Ran 1 tests in 0.002s
+PASSED (id=1698, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpDfeeuy
+Ran 1 tests in 0.002s
+PASSED (id=1699, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSY3RMz
+Ran 1 tests in 0.003s
+PASSED (id=1700, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1bpKmz
+Ran 1 tests in 0.263s
+PASSED (id=1701)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpGJpwlp
+Ran 1 tests in 0.624s (+0.364s)
+PASSED (id=1702)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpuMEYdj
+Ran 1 tests in 0.376s (-0.246s)
+PASSED (id=1703)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpYPiqpd
+Ran 1 tests in 0.390s (+0.016s)
+PASSED (id=1704)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp_kJ4P1
+Ran 1 tests in 0.239s (-0.149s)
+PASSED (id=1705)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpXeQK4l
+======================================================================
+FAIL: tempest.cli.simple_read_only.test_cinder.SimpleReadOnlyCinderClientTest.test_cinder_credentials
+tags: worker-0
+----------------------------------------------------------------------
+Empty attachments:
+  stderr
+  stdout
+
+pythonlogging:'': {{{
+2013-12-20 13:19:10,164 running: '/usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials '
+2013-12-20 13:19:10,431 output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials :
+
+2013-12-20 13:19:10,431 error output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials :
+ERROR: Volume API version is set to 2 but you are accessing a 1 endpoint. Change its value via either --os-volume-api-version or env[OS_VOLUME_API_VERSION]
+}}}
+
+Traceback (most recent call last):
+  File "tempest/cli/simple_read_only/test_cinder.py", line 88, in test_cinder_credentials
+    self.cinder('credentials')
+  File "tempest/cli/__init__.py", line 92, in cinder
+    'cinder', action, flags, params, admin, fail_ok)
+  File "tempest/cli/__init__.py", line 110, in cmd_with_auth
+    return self.cmd(cmd, action, flags, params, fail_ok)
+  File "tempest/cli/__init__.py", line 131, in cmd
+    result)
+CommandFailed: Command '['/usr/local/bin/cinder', '--os-username', 'admin', '--os-tenant-name', 'admin', '--os-password', 'foobar', '--os-auth-url', 'http://192.168.122.34:5000/v2.0/', 'credentials']' returned non-zero exit status 1
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.360s (+0.123s)
+FAILED (id=1706, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpElDefv
+Ran 1 (-1) tests in 0.393s (+0.036s)
+PASSED (id=1707)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+PASSED (id=1708)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpLMEdK3
+Ran 1 (+1) tests in 0.381s
+PASSED (id=1709)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpysIMVP
+Ran 1 tests in 0.263s (-0.115s)
+PASSED (id=1710)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpL3aIWH
+======================================================================
+FAIL: tempest.cli.simple_read_only.test_cinder.SimpleReadOnlyCinderClientTest.test_cinder_list_extensions
+tags: worker-0
+----------------------------------------------------------------------
+Empty attachments:
+  stderr
+  stdout
+
+pythonlogging:'': {{{
+2013-12-20 13:19:24,801 running: '/usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions '
+2013-12-20 13:19:25,083 output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions :
+
+2013-12-20 13:19:25,084 error output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions :
+ERROR: Volume API version is set to 2 but you are accessing a 1 endpoint. Change its value via either --os-volume-api-version or env[OS_VOLUME_API_VERSION]
+}}}
+
+Traceback (most recent call last):
+  File "tempest/cli/simple_read_only/test_cinder.py", line 83, in test_cinder_list_extensions
+    self.cinder('list-extensions')
+  File "tempest/cli/__init__.py", line 92, in cinder
+    'cinder', action, flags, params, admin, fail_ok)
+  File "tempest/cli/__init__.py", line 110, in cmd_with_auth
+    return self.cmd(cmd, action, flags, params, fail_ok)
+  File "tempest/cli/__init__.py", line 131, in cmd
+    result)
+CommandFailed: Command '['/usr/local/bin/cinder', '--os-username', 'admin', '--os-tenant-name', 'admin', '--os-password', 'foobar', '--os-auth-url', 'http://192.168.122.34:5000/v2.0/', 'list-extensions']' returned non-zero exit status 1
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.369s (+0.109s)
+FAILED (id=1711, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpx2idkY
+Ran 1 (-1) tests in 0.407s (+0.040s)
+PASSED (id=1712)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpYvL9dz
+Ran 1 tests in 0.401s (-0.003s)
+PASSED (id=1713)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpVUq3t1
+Ran 1 tests in 0.416s (+0.017s)
+PASSED (id=1714)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprbxPiJ
+Ran 1 tests in 0.418s (+0.005s)
+PASSED (id=1715)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp_0s3e5
+Ran 1 tests in 0.393s (-0.022s)
+PASSED (id=1716)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpMvVC2o
+Ran 1 tests in 0.378s (-0.012s)
+PASSED (id=1717)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpet1_yr
+Ran 1 tests in 0.404s (+0.028s)
+PASSED (id=1718)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpEhmLBx
+Ran 1 tests in 0.393s (-0.009s)
+PASSED (id=1719)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpRhKN7F
+Ran 1 tests in 0.390s (-0.001s)
+PASSED (id=1720)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpMwAGJI
+Ran 1 tests in 0.370s (-0.017s)
+PASSED (id=1721)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpkVreQ6
+Ran 1 tests in 0.184s (-0.184s)
+PASSED (id=1722)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpZbmgvm
+Ran 1 tests in 0.405s (+0.224s)
+PASSED (id=1723)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpATf2ao
+Ran 1 tests in 0.437s (+0.034s)
+PASSED (id=1724)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp3JJvlu
+Ran 1 tests in 0.232s (-0.203s)
+PASSED (id=1725)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpDfEo64
+Ran 1 tests in 0.246s (+0.017s)
+PASSED (id=1726)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpoyhhZk
+Ran 1 tests in 0.418s (+0.175s)
+PASSED (id=1727)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpu3XnK3
+Ran 1 tests in 0.400s (-0.016s)
+PASSED (id=1728)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSSfJvo
+Ran 1 tests in 0.422s (+0.024s)
+PASSED (id=1729)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp3hjJpC
+Ran 1 tests in 0.213s (-0.207s)
+PASSED (id=1730)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpXI9yS1
+Ran 1 tests in 0.249s (+0.039s)
+PASSED (id=1731)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpT0ugXz
+Ran 1 tests in 0.304s (+0.057s)
+PASSED (id=1732)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpZoYxYf
+Ran 1 tests in 0.322s (+0.020s)
+PASSED (id=1733)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpwRXzT5
+Ran 1 tests in 0.245s (-0.074s)
+PASSED (id=1734)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpfgTyI8
+Ran 1 tests in 0.315s (+0.072s)
+PASSED (id=1735)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp_s46Xz
+Ran 1 tests in 0.609s (+0.297s)
+PASSED (id=1736)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpDftKQb
+Ran 1 tests in 0.224s (-0.382s)
+PASSED (id=1737)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpz7qjb1
+Ran 1 tests in 0.236s (+0.014s)
+PASSED (id=1738)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpXtMLil
+Ran 1 tests in 0.355s (+0.121s)
+PASSED (id=1739)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpctJUGP
+Ran 1 tests in 0.330s (-0.021s)
+PASSED (id=1740)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp8OWh9s
+Ran 1 tests in 0.313s (-0.015s)
+PASSED (id=1741)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpjplBqS
+Ran 1 tests in 0.312s (+0.002s)
+PASSED (id=1742)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpcqRaNR
+Ran 1 tests in 0.310s (+0.001s)
+PASSED (id=1743)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpr6mi2f
+Ran 1 tests in 0.343s (+0.036s)
+PASSED (id=1744)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpndtVIo
+Ran 1 tests in 0.212s (-0.129s)
+PASSED (id=1745)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpe4su3h
+Ran 1 tests in 0.380s (+0.170s)
+PASSED (id=1746)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp7UOsQ_
+Ran 1 tests in 0.403s (+0.025s)
+PASSED (id=1747)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpWLxoNX
+Ran 1 tests in 0.379s (-0.021s)
+PASSED (id=1748)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpwurBqq
+Ran 1 tests in 0.378s (+0.002s)
+PASSED (id=1749)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprO086w
+Ran 1 tests in 0.219s (-0.156s)
+PASSED (id=1750)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpYlt_Xm
+Ran 1 tests in 0.388s (+0.171s)
+PASSED (id=1751)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpgf_slM
+Ran 1 tests in 0.250s (-0.135s)
+PASSED (id=1752)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpp09YeW
+Ran 1 tests in 0.048s (-0.199s)
+PASSED (id=1753, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpi6Zg0E
+Ran 1 tests in 0.050s (+0.004s)
+PASSED (id=1754, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpTATGNI
+Ran 1 tests in 0.379s (+0.333s)
+PASSED (id=1755)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpp014Ys
+Ran 1 tests in 0.392s (+0.015s)
+PASSED (id=1756)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpGuwYV3
+Ran 1 tests in 0.390s (+0.001s)
+PASSED (id=1757)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp3oybES
+Ran 1 tests in 0.406s (+0.019s)
+PASSED (id=1758)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpZz8Ycg
+Ran 1 tests in 0.383s (-0.021s)
+PASSED (id=1759)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpbOyT1m
+Ran 1 tests in 0.394s (+0.014s)
+PASSED (id=1760)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+PASSED (id=1761)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpIWlqaq
+Ran 1 (+1) tests in 0.535s
+PASSED (id=1762)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpms6Yhi
+Ran 1 tests in 0.395s (-0.138s)
+PASSED (id=1763)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpkP7JB8
+Ran 1 tests in 0.220s (-0.173s)
+PASSED (id=1764)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpbA3y08
+Ran 1 tests in 0.843s (+0.626s)
+PASSED (id=1765)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpBGNYqV
+Ran 1 tests in 0.561s (-0.280s)
+PASSED (id=1766)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpyTSvEX
+Ran 1 tests in 0.451s (-0.107s)
+PASSED (id=1767)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpIt9U4d
+Ran 1 tests in 0.392s (-0.057s)
+PASSED (id=1768)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp0rUtUs
+Ran 1 tests in 0.440s (+0.052s)
+PASSED (id=1769)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp54DKnx
+Ran 1 tests in 0.052s (-0.386s)
+PASSED (id=1770, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpl1xAiI
+Ran 1 tests in 0.049s (-0.001s)
+PASSED (id=1771, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprosxXg
+Ran 1 tests in 0.393s (+0.347s)
+PASSED (id=1772)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpy2cykc
+Ran 1 tests in 0.313s (-0.074s)
+PASSED (id=1773)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpMp_A4O
+Ran 1 tests in 0.841s (+0.530s)
+PASSED (id=1774)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1vHSQX
+Ran 1 tests in 0.494s (-0.344s)
+PASSED (id=1775)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpjTr1kJ
+Ran 1 tests in 0.441s (-0.049s)
+PASSED (id=1776)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpkGNBQs
+Ran 1 tests in 0.546s (+0.107s)
+PASSED (id=1777)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpPXZcJP
+Ran 1 tests in 0.548s (+0.004s)
+PASSED (id=1778)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpXedLqU
+Ran 1 tests in 0.342s (-0.203s)
+PASSED (id=1779)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpzzPQsz
+Ran 1 tests in 0.458s (+0.118s)
+PASSED (id=1780)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpsCdN9X
+Ran 1 tests in 0.442s (-0.013s)
+PASSED (id=1781)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpStVngI
+Ran 1 tests in 0.536s (+0.097s)
+PASSED (id=1782)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpky5TsA
+Ran 1 tests in 0.050s (-0.484s)
+PASSED (id=1783, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1W668E
+Ran 1 tests in 0.434s (+0.386s)
+PASSED (id=1784)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpaUkHF6
+Ran 2 (+1) tests in 1.883s (+1.452s)
+PASSED (id=1785)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpUrG0jp
+Ran 1 (-1) tests in 0.436s (-1.444s)
+PASSED (id=1786)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpkay5K8
+Ran 1 tests in 0.504s (+0.070s)
+PASSED (id=1787)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpLYn8sX
+Ran 1 tests in 0.509s (+0.007s)
+PASSED (id=1788)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpfLEHCe
+Ran 1 tests in 0.465s (-0.041s)
+PASSED (id=1789)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpp3IEH8
+Ran 2 (+1) tests in 0.535s (+0.073s)
+PASSED (id=1790, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpeT82TP
+Ran 1 (-1) tests in 0.049s (-0.484s)
+PASSED (id=1791, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpnQVcc2
+Ran 1 tests in 0.473s (+0.427s)
+PASSED (id=1792)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpZ_gr84
+Ran 1 tests in 0.443s (-0.028s)
+PASSED (id=1793)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpi5tbdz
+Ran 1 tests in 0.447s (+0.007s)
+PASSED (id=1794)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpHiafoz
+Ran 2 (+1) tests in 1.244s (+0.799s)
+PASSED (id=1795)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp_3c_wJ
+Ran 1 (-1) tests in 0.763s (-0.478s)
+PASSED (id=1796)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpQDISi7
+Ran 1 tests in 0.209s (-0.551s)
+PASSED (id=1797)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp5YhLOU
+Ran 1 tests in 0.517s (+0.311s)
+PASSED (id=1798)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpTj0HSB
+Ran 1 tests in 0.448s (-0.066s)
+PASSED (id=1799)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpOO7EXR
+Ran 1 tests in 0.455s (+0.010s)
+PASSED (id=1800)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpIcq39F
+Ran 1 tests in 0.846s (+0.394s)
+PASSED (id=1801)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpAcVEJR
+Ran 1 tests in 0.440s (-0.404s)
+PASSED (id=1802)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpsa1C1C
+Ran 1 tests in 0.648s (+0.211s)
+PASSED (id=1803)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp0yNuHG
+Ran 1 tests in 0.783s (+0.137s)
+PASSED (id=1804)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpOpU9To
+Ran 1 tests in 0.521s (-0.259s)
+PASSED (id=1805)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp0K2KqL
+Ran 1 tests in 0.523s (+0.005s)
+PASSED (id=1806)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpCmGLIo
+Ran 1 tests in 0.648s (+0.127s)
+PASSED (id=1807)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpsBEwTm
+Ran 1 tests in 0.647s (+0.001s)
+PASSED (id=1808)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpn4RXyA
+Ran 1 tests in 0.409s (-0.235s)
+PASSED (id=1809)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpyCXL3d
+Ran 1 tests in 0.642s (+0.235s)
+PASSED (id=1810)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpY_LYlS
+Ran 1 tests in 0.646s (+0.007s)
+PASSED (id=1811)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpVExBPz
+Ran 2 (+1) tests in 1.469s (+0.826s)
+PASSED (id=1812)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpkjcK7m
+Ran 1 (-1) tests in 1.148s (-0.319s)
+PASSED (id=1813)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpEQofiL
+Ran 1 tests in 0.587s (-0.558s)
+PASSED (id=1814)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpM978lH
+Ran 4 (+3) tests in 1.467s (+0.882s)
+PASSED (id=1815)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpI42B33
+Ran 1 (-3) tests in 0.456s (-1.008s)
+PASSED (id=1816)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpN8x5Ks
+Ran 2 (+1) tests in 0.596s (+0.143s)
+PASSED (id=1817)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpsYJz_O
+Ran 1 (-1) tests in 0.317s (-0.276s)
+PASSED (id=1818)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpnc26BU
+Ran 1 tests in 2.917s (+2.603s)
+PASSED (id=1819)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpfxlCj0
+Ran 1 tests in 2.838s (+0.849s)
+PASSED (id=1820)
+====================================================================
+New run Fri Dec 20 14:22:47 NST 2013
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpFDe_xm
+Ran 1 (-1) tests in 13.333s (-220.490s)
+PASSED (id=1847, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp43qZca
+Ran 1 tests in 12.375s (+12.312s)
+PASSED (id=1848, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpuJN5_3
+Ran 1 tests in 12.306s (+12.245s)
+PASSED (id=1849, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpElcLOa
+Ran 1 tests in 12.166s (+12.088s)
+PASSED (id=1850, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp5bfT0s
+Ran 1 tests in 0.488s (+0.421s)
+PASSED (id=1851)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpXCiK6f
+Ran 1 tests in 0.510s (+0.313s)
+PASSED (id=1852)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpf7YuXU
+Ran 1 tests in 0.503s (+0.281s)
+PASSED (id=1853)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpBN2G27
+Ran 1 tests in 0.488s (+0.296s)
+PASSED (id=1854)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpHfyhGW
+======================================================================
+FAIL: setUpClass (tempest.api.network.test_load_balancer.LoadBalancerJSON)
+tags: worker-0
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "tempest/api/network/test_load_balancer.py", line 51, in setUpClass
+    "HTTP", cls.subnet)
+  File "tempest/api/network/base.py", line 169, in create_pool
+    subnet['id'])
+  File "tempest/services/network/json/network_client.py", line 451, in create_pool
+    resp, body = self.post(uri, headers=self.headers, body=body)
+  File "tempest/common/rest_client.py", line 302, in post
+    return self.request('POST', url, headers, body)
+  File "tempest/common/rest_client.py", line 436, in request
+    resp, resp_body)
+  File "tempest/common/rest_client.py", line 481, in _error_checker
+    raise exceptions.NotFound(resp_body)
+NotFound: Object not found
+Details: 404 Not Found
+
+The resource could not be found.
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.386s (+0.171s)
+FAILED (id=1855, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp7RCDBI
+======================================================================
+FAIL: setUpClass (tempest.api.network.test_load_balancer.LoadBalancerXML)
+tags: worker-0
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "tempest/api/network/test_load_balancer.py", line 51, in setUpClass
+    "HTTP", cls.subnet)
+  File "tempest/api/network/base.py", line 169, in create_pool
+    subnet['id'])
+  File "tempest/services/network/xml/network_client.py", line 312, in create_pool
+    resp, body = self.post(uri, str(Document(post_body)), self.headers)
+  File "tempest/common/rest_client.py", line 302, in post
+    return self.request('POST', url, headers, body)
+  File "tempest/common/rest_client.py", line 436, in request
+    resp, resp_body)
+  File "tempest/common/rest_client.py", line 481, in _error_checker
+    raise exceptions.NotFound(resp_body)
+NotFound: Object not found
+Details: 404 Not Found
+
+The resource could not be found.
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 tests in 0.406s (+0.362s)
+FAILED (id=1856, failures=2)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpp3FG92
+Ran 1 (-1) tests in 0.002s (-0.040s)
+PASSED (id=1857, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1MTLc2
+Ran 1 tests in 0.002s
+PASSED (id=1858, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpAXHTNh
+Ran 1 tests in 0.002s
+PASSED (id=1859, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp6r0Akt
+Ran 1 tests in 0.003s
+PASSED (id=1860, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpX1rAkS
+Ran 1 tests in 0.002s
+PASSED (id=1861, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpeHkLYH
+Ran 1 tests in 0.002s
+PASSED (id=1862, skips=1)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp73yw8t
+Ran 1 tests in 0.257s
+PASSED (id=1863)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpmJvWBd
+Ran 1 tests in 0.392s (+0.138s)
+PASSED (id=1864)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpUp0PZs
+Ran 1 tests in 0.384s (-0.006s)
+PASSED (id=1865)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpyzDBwI
+Ran 1 tests in 0.389s (+0.007s)
+PASSED (id=1866)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpOGljyQ
+Ran 1 tests in 0.239s (-0.147s)
+PASSED (id=1867)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpxDUjTx
+======================================================================
+FAIL: tempest.cli.simple_read_only.test_cinder.SimpleReadOnlyCinderClientTest.test_cinder_credentials
+tags: worker-0
+----------------------------------------------------------------------
+Empty attachments:
+  stderr
+  stdout
+
+pythonlogging:'': {{{
+2013-12-20 14:25:04,009 running: '/usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials '
+2013-12-20 14:25:04,289 output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials :
+
+2013-12-20 14:25:04,289 error output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   credentials :
+ERROR: Volume API version is set to 2 but you are accessing a 1 endpoint. Change its value via either --os-volume-api-version or env[OS_VOLUME_API_VERSION]
+}}}
+
+Traceback (most recent call last):
+  File "tempest/cli/simple_read_only/test_cinder.py", line 88, in test_cinder_credentials
+    self.cinder('credentials')
+  File "tempest/cli/__init__.py", line 92, in cinder
+    'cinder', action, flags, params, admin, fail_ok)
+  File "tempest/cli/__init__.py", line 110, in cmd_with_auth
+    return self.cmd(cmd, action, flags, params, fail_ok)
+  File "tempest/cli/__init__.py", line 131, in cmd
+    result)
+CommandFailed: Command '['/usr/local/bin/cinder', '--os-username', 'admin', '--os-tenant-name', 'admin', '--os-password', 'foobar', '--os-auth-url', 'http://192.168.122.34:5000/v2.0/', 'credentials']' returned non-zero exit status 1
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.371s (+0.135s)
+FAILED (id=1868, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpf1bt0N
+Ran 1 (-1) tests in 0.369s (+0.000s)
+PASSED (id=1869)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+PASSED (id=1870)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpyUPgMk
+Ran 1 (+1) tests in 0.374s
+PASSED (id=1871)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpW7gfp1
+Ran 1 tests in 0.250s (-0.121s)
+PASSED (id=1872)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpxVMvEH
+======================================================================
+FAIL: tempest.cli.simple_read_only.test_cinder.SimpleReadOnlyCinderClientTest.test_cinder_list_extensions
+tags: worker-0
+----------------------------------------------------------------------
+Empty attachments:
+  stderr
+  stdout
+
+pythonlogging:'': {{{
+2013-12-20 14:25:18,609 running: '/usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions '
+2013-12-20 14:25:18,887 output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions :
+
+2013-12-20 14:25:18,887 error output of /usr/local/bin/cinder --os-username admin --os-tenant-name admin --os-password foobar --os-auth-url http://192.168.122.34:5000/v2.0/   list-extensions :
+ERROR: Volume API version is set to 2 but you are accessing a 1 endpoint. Change its value via either --os-volume-api-version or env[OS_VOLUME_API_VERSION]
+}}}
+
+Traceback (most recent call last):
+  File "tempest/cli/simple_read_only/test_cinder.py", line 83, in test_cinder_list_extensions
+    self.cinder('list-extensions')
+  File "tempest/cli/__init__.py", line 92, in cinder
+    'cinder', action, flags, params, admin, fail_ok)
+  File "tempest/cli/__init__.py", line 110, in cmd_with_auth
+    return self.cmd(cmd, action, flags, params, fail_ok)
+  File "tempest/cli/__init__.py", line 131, in cmd
+    result)
+CommandFailed: Command '['/usr/local/bin/cinder', '--os-username', 'admin', '--os-tenant-name', 'admin', '--os-password', 'foobar', '--os-auth-url', 'http://192.168.122.34:5000/v2.0/', 'list-extensions']' returned non-zero exit status 1
+======================================================================
+FAIL: process-returncode
+tags: worker-0
+----------------------------------------------------------------------
+Binary content:
+  traceback (test/plain; charset="utf8")
+Ran 2 (+1) tests in 0.365s (+0.117s)
+FAILED (id=1873, failures=2 (+2))
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpnXsAjK
+Ran 1 (-1) tests in 0.386s (+0.023s)
+PASSED (id=1874)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmphz1M98
+Ran 1 tests in 0.429s (+0.045s)
+PASSED (id=1875)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpru9XCb
+Ran 1 tests in 0.395s (-0.031s)
+PASSED (id=1876)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpIrUsqf
+Ran 1 tests in 0.403s (+0.011s)
+PASSED (id=1877)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpNhCvTl
+Ran 1 tests in 0.417s (+0.016s)
+PASSED (id=1878)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmphNxUqZ
+Ran 1 tests in 0.377s (-0.038s)
+PASSED (id=1879)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpICM50Y
+Ran 1 tests in 0.381s (+0.007s)
+PASSED (id=1880)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp9klJTH
+Ran 1 tests in 0.379s (+0.000s)
+PASSED (id=1881)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpUmHATq
+Ran 1 tests in 0.382s (+0.005s)
+PASSED (id=1882)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp1pLfNa
+Ran 1 tests in 0.425s (+0.045s)
+PASSED (id=1883)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpRngAtJ
+Ran 1 tests in 0.181s (-0.241s)
+PASSED (id=1884)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSuZL1u
+Ran 1 tests in 0.376s (+0.198s)
+PASSED (id=1885)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpeekfnE
+Ran 1 tests in 0.431s (+0.058s)
+PASSED (id=1886)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpDCYe0x
+Ran 1 tests in 0.233s (-0.196s)
+PASSED (id=1887)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpZiu93v
+Ran 1 tests in 0.249s (+0.019s)
+PASSED (id=1888)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpaoB09q
+Ran 1 tests in 0.414s (+0.167s)
+PASSED (id=1889)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpGTtV9P
+Ran 1 tests in 0.394s (-0.018s)
+PASSED (id=1890)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpPS3bJa
+Ran 1 tests in 0.430s (+0.039s)
+PASSED (id=1891)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpJpq6pU
+Ran 1 tests in 0.212s (-0.215s)
+PASSED (id=1892)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpfBqCTT
+Ran 1 tests in 0.223s (+0.013s)
+PASSED (id=1893)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp_k7ocf
+Ran 1 tests in 0.306s (+0.085s)
+PASSED (id=1894)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpaa6ELZ
+Ran 1 tests in 0.312s (+0.008s)
+PASSED (id=1895)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp5zz1mM
+Ran 1 tests in 0.240s (-0.069s)
+PASSED (id=1896)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpHmpyfh
+Ran 1 tests in 0.322s (+0.084s)
+PASSED (id=1897)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpJkKfLp
+Ran 1 tests in 0.585s (+0.266s)
+PASSED (id=1898)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpzCXYiy
+Ran 1 tests in 0.225s (-0.358s)
+PASSED (id=1899)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpjUYMLY
+Ran 1 tests in 0.235s (+0.013s)
+PASSED (id=1900)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprepjTU
+Ran 1 tests in 0.340s (+0.107s)
+PASSED (id=1901)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprdYJk9
+Ran 1 tests in 0.342s (+0.005s)
+PASSED (id=1902)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmp7X5a5V
+Ran 1 tests in 0.308s (-0.032s)
+PASSED (id=1903)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpypVuH2
+Ran 1 tests in 0.311s (+0.006s)
+PASSED (id=1904)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpjsE27f
+Ran 1 tests in 0.310s (+0.001s)
+PASSED (id=1905)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpwuMef3
+Ran 1 tests in 0.348s (+0.041s)
+PASSED (id=1906)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmprSq9uU
+Ran 1 tests in 0.211s (-0.135s)
+PASSED (id=1907)
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest --list 
+running=OS_STDOUT_CAPTURE=${OS_STDOUT_CAPTURE:-1} \
+OS_STDERR_CAPTURE=${OS_STDERR_CAPTURE:-1} \
+OS_TEST_TIMEOUT=${OS_TEST_TIMEOUT:-500} \
+${PYTHON:-python} -m subunit.run discover -t ./ ./tempest  --load-list /tmp/tmpSlAwEf
+Ran 1 tests in 0.404s (+0.195s)
+PASSED (id=1908)
