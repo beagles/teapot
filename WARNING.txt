@@ -1,0 +1,8 @@
+WARNING: running any of these tools might overwrite something or remove
+something you didn't want "gone". Read this before monkeying around. Most
+notably if you have VMs in your devstack environment or networks other than
+the two "default" devstack ones, running these scripts will obliterate
+them. You've been warned.
+
+You should probably read README.txt too. If you had already you've already
+seen this warning.
