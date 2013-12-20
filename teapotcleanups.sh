@@ -1,6 +1,6 @@
 #/bin/bash
 
-bash $HOME/cleanupvms.sh
-bash $HOME/cleanuprouters.sh
-bash $HOME/cleanupnetworks.sh
-bash $HOME/cleanupnamespaces.sh
+cleanupvms.sh
+cleanuprouters.sh
+cleanupnetworks.sh
+cleanupnamespaces.sh
