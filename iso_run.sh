@@ -8,9 +8,9 @@ breakonexit=$2
 
 if [ -e "$testgroup.tests.txt" ];
 then
+    bash $HOME/cleanups.sh
     cat "$testgroup.tests.txt" | while read testname rest;
     do
-	bash $HOME/cleanups.sh
 	testr run $testname | tee -a $testgroup.results.txt | tee $testname.result.txt
 	grep -q FAIL $testname.result.txt
 	if test $? -eq 1;
@@ -19,6 +19,8 @@ then
 	    [ $? -eq 1 ] && echo "$testname" >> failing.tests.txt
 	    bash $HOME/cleanups.sh >> $testname.result.txt
 	    [ -n "$breakonexit" ] && [ "$breakonexit" == "yes" ] && exit
+	else
+	    bash $HOME/cleanups.sh | tee -a $testname.result.txt
 	fi
     done
 else
