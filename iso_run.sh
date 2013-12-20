@@ -20,7 +20,7 @@ then
 	then
 	    grep -q "$testname" failing.tests.txt
 	    [ $? -eq 1 ] && echo "$testname" >> failing.tests.txt
-	    bash -X teapotcleanups.sh | tee -a $testname.result.txt
+	    bash -x teapotcleanups.sh | tee -a $testname.result.txt
 	    [ -n "$breakonexit" ] && [ "$breakonexit" == "yes" ] && exit
 	else
 	    bash -x teapotcleanups.sh | tee -a $testname.result.txt
