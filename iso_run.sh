@@ -16,7 +16,7 @@ then
     do
 	testr run $testname | tee -a $testgroup.results.txt | tee $testname.result.txt
 	grep -q FAIL $testname.result.txt
-	if test $? -eq 1;
+	if test $? -eq 0;
 	then
 	    grep -q "$testname" failing.tests.txt
 	    [ $? -eq 1 ] && echo "$testname" >> failing.tests.txt
