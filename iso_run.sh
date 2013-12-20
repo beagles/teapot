@@ -3,7 +3,7 @@
 touch failing.tests.txt
 touch passing.tests.txt
 testgroup=$1
-breakonexit=$2
+breakonfail=$2
 
 [ -z "$testgroup" ] && echo "specify test group" && exit
 
@@ -24,7 +24,7 @@ then
 	    sed -i.bak -e "/$testname/d" passing.tests.txt
 	    echo "$testname $ts" >> failing.tests.txt
 	    bash -x teapotcleanups.sh | tee -a $testname.result.txt
-	    [ -n "$breakonexit" ] && [ "$breakonexit" == "yes" ] && exit
+	    [ -n "$breakonfail" ] && [ "$breakonfail" == "yes" ] && exit
 	else
 	    # don't delete the failing entry.. I want to keep track
 	    # of if it ever has failed.
